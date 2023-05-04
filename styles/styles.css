@@ -1,3 +1,9 @@
 body{
     background-color: aqua;
 }
+h1{
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: black;
+}
